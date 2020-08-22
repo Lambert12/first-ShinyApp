@@ -1,7 +1,7 @@
 ####################################
 # NZUNGIZE Labert                  #
 # Email: nzulapa@outlook.com       #
-# https://github.com/Lambert12      #
+# https://github.com/NzungizeL     #
 ####################################
 
 # Modified from https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/
